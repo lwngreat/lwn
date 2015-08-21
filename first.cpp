@@ -1,1 +1,5 @@
-#include<iostre
+#include<iostream>
+void main()
+{
+	cout<<endl;
+}
